@@ -47,12 +47,14 @@ Data Analysis
 2️⃣ Productivity Impact Analysis – Phone usage vs work performance
 3️⃣ Lifestyle Insights – Stress, caffeine intake, and weekend screen time
 
-Screenshot 
-https://github.com/Ankita-1808/Smartphone_Usage_Productivity_/blob/main/Screenshot%202026-03-04%20192050.png
-https://github.com/Ankita-1808/Smartphone_Usage_Productivity_/blob/main/Screenshot%202026-03-04%20192340.png
 
 🎯 Career Focus
 
 This project is part of my Data Analytics portfolio, demonstrating my ability to build dashboards and generate actionable insights.
 
 I am currently seeking opportunities as a Data Analyst / Business Analyst.
+
+Screenshot 
+https://github.com/Ankita-1808/Smartphone_Usage_Productivity_/blob/main/Screenshot%202026-03-04%20192050.png
+https://github.com/Ankita-1808/Smartphone_Usage_Productivity_/blob/main/Screenshot%202026-03-04%20192340.png
+https://github.com/Ankita-1808/Smartphone_Usage_Productivity_/blob/main/Screenshot%202026-03-04%20192421.png
